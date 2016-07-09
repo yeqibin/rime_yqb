@@ -10,4 +10,13 @@ Rime是[佛振@git](https://gist.github.com/lotem)开发的一款非常棒的输
 * 重新部署。
 * 验证：输入「一介书生」、「一丈红」、「疑是地上霜」。
 
+# 同步
 
+修改配置目录下的`installation.yaml`文件以下两行：
+
+```yaml
+installation_id: "xxxxx"
+sync_dir: '/home/xxx/Nutstore/RimeSync'
+```
+
+第一行改成自己的id名，第二行将同步文件夹设立在Nutstore网盘同步文件夹里。
