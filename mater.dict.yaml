@@ -1,0 +1,1549 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 材料科学与工程
+#
+#   
+#
+# Thanks to the following works:
+# 来自QQ拼音分类词库
+#
+
+---
+name: material
+version: "2016.06.1"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+凹点	ao dian	1
+凹陷	ao xian	1
+奥氏体	ao shi ti	1
+奥氏体回火	ao shi ti hui huo	1
+奥氏体碳钢	ao shi ti tan gang	1
+奥氏铁回火	ao shi tie hui huo	1
+拔丝机	ba si ji	1
+靶孔	ba kong	1
+靶形	ba xing	1
+白斑	bai ban	1
+白边	bai bian	1
+白点	bai dian	1
+白铁皮	bai tie pi	1
+扳手	ban shou	1
+扳子	ban zi	1
+板翘	ban qiao	1
+板弯	ban wan	1
+半固态浆料	ban gu tai jiang liao	1
+半机械化	ban ji xie hua	1
+半静钢	ban jing gang	1
+半衰期	ban shuai qi	1
+半圆线	ban yuan xian	1
+半自动滚刀磨床	ban zi dong gun dao mo chuang	1
+半自动化	ban zi dong hua	1
+包晶反应	bao jing fan ying	1
+包晶合金	bao jing he jin	1
+包晶温度	bao jing wen du	1
+包晶相图	bao jing xiang tu	1
+薄基板	bo ji ban	1
+薄基板	bao ji ban	1
+保温炉	bao wen lu	1
+鲍林标度	bao lin biao du	1
+杯突测试	bei tu ce shi	1
+背光	bei guang	1
+背散射电子成像	bei san she dian zi cheng xiang	1
+贝氏体	bei shi ti	1
+贝氏体钢片	bei shi ti gang pian	1
+备件	bei jian	1
+苯酚	ben fen	1
+苯乙烯	ben yi xi	1
+本征半导体	ben zheng ban dao ti	1
+比电阻	bi dian zu	1
+比热	bi re	1
+比重	bi zhong	1
+边刨床	bian bao chuang	1
+边缘处理	bian yuan chu li	1
+扁线	bian xian	1
+扁线公差	bian xian gong cha	1
+扁线公差	bian xian gong chai	1
+变速箱	bian su xiang	1
+变态点	bian tai dian	1
+标准板	biao zhun ban	1
+表观	biao guan	1
+表面	biao mian	1
+表面保护胶纸	biao mian bao hu jiao zhi	1
+表面处理	biao mian chu li	1
+表面改性	biao mian gai xing	1
+表面增韧	biao mian zeng ren	1
+丙烯	bing xi	1
+丙烯酸	bing xi suan	1
+丙烯腈	bing xi jing	1
+丙烯酰胺	bing xi xian an	1
+玻璃	bo li	1
+玻璃成型	bo li cheng xing	1
+玻璃化	bo li hua	1
+玻璃化转变温度	bo li hua zhuan bian wen du	1
+玻璃态	bo li tai	1
+玻璃纤维	bo li xian wei	1
+玻璃纤维布	bo li xian wei bu	1
+卜竹发条	bo zhu fa tiao	1
+卜竹发条	bu zhu fa tiao	1
+不破坏检验	bu po huai jian yan	1
+不锈钢	bu xiu gang	1
+不锈钢板	bu xiu gang ban	1
+不锈钢半圆线	bu xiu gang ban yuan xian	1
+不锈钢薄片	bu xiu gang bao pian	1
+不锈钢扁线	bu xiu gang bian xian	1
+不锈钢箔	bu xiu gang bo	1
+不锈钢基层金属	bu xiu gang ji ceng jin shu	1
+不锈钢卷片	bu xiu gang juan pian	1
+不锈钢片	bu xiu gang pian	1
+不锈钢应力退火卷片	bu xiu gang ying li tui huo juan pian	1
+布氏	bu shi	1
+布氏硬度	bu shi ying du	1
+布线	bu xian	1
+部件	bu jian	1
+裁切线	cai qie xian	1
+材料	cai liao	1
+材料的加工性能	cai liao de jia gong xing neng	1
+材料工程	cai liao gong cheng	1
+材料工艺	cai liao gong yi	1
+材料加工工艺	cai liao jia gong gong yi	1
+材料科学	cai liao ke xue	1
+材料科学与工程	cai liao ke xue yu gong cheng	1
+材料生产工艺	cai liao sheng chan gong yi	1
+仓库	cang ku	1
+测点	ce dian	1
+测量	ce liang	1
+层流	ceng liu	1
+层片	ceng pian	1
+层状化增韧	ceng zhuang hua zeng ren	1
+插床	cha chuang	1
+插入型固熔体	cha ru xing gu rong ti	1
+拆卸	chai xie	1
+长度公差	chang du gong chai	1
+超导	chao dao	1
+超导性	chao dao xing	1
+超高速内圆磨床	chao gao su nei yuan mo chuang	1
+超耐热钢	chao nai re gang	1
+超声波打磨机	chao sheng bo da mo ji	1
+超声波探伤法	chao sheng bo tan shang fa	1
+车床	che chuang	1
+车床工作台	che chuang gong zuo tai	1
+车刀	che dao	1
+车轮车床	che lun che chuang	1
+车削	che xiao	1
+车轴	che zhou	1
+衬套	chen tao	1
+成份	cheng fen	1
+成品板	cheng pin ban	1
+程式带	cheng shi dai	1
+齿轮	chi lun	1
+齿轮切削机	chi lun qie xiao ji	1
+尺寸	chi cun	1
+尺寸安全性	chi cun an quan xing	1
+冲击测试	chong ji ce shi	1
+冲击强度	chong ji qiang du	1
+冲剪	chong jian	1
+冲压	chong ya	1
+冲压机	chong ya ji	1
+冲子	chong zi	1
+冲子研磨器	chong zi yan mo qi	1
+抽样数	chou yang shu	1
+初生固相	chu sheng gu xiang	1
+初生固相晶粒尺寸	chu sheng gu xiang jing li chi cun	1
+初释纯铁体	chu shi chun tie ti	1
+触变成形	chu bian cheng xing	1
+处理及表面状况	chu li ji biao mian zhuang kuang	1
+穿晶断裂	chuan jing duan lie	1
+传动链	chuan dong lian	1
+串晶	chuan jing	1
+床身式铣床	chuang shen shi xi chuang	1
+吹孔	chui kong	1
+吹塑	chui su	1
+吹制成型	chui zhi cheng xing	1
+纯铁体	chun tie ti	1
+磁场	ci chang	1
+磁畴	ci chou	1
+磁带	ci dai	1
+磁粉探伤法	ci fen tan shang fa	1
+磁化率	ci hua lv	1
+磁化强度	ci hua qiang du	1
+磁记录材料	ci ji lu cai liao	1
+磁矩	ci ju	1
+磁力	ci li	1
+磁偶极子	ci ou ji zi	1
+磁片	ci pian	1
+磁性	ci xing	1
+磁性变态	ci xing bian tai	1
+磁性变态点	ci xing bian tai dian	1
+磁性感应	ci xing gan ying	1
+磁性工具	ci xing gong ju	1
+磁致伸缩	ci zhi shen suo	1
+磁滞回线	ci zhi hui xian	1
+粗珠光体	cu zhu guang ti	1
+脆性断裂	cui xing duan lie	1
+淬火	cui huo	1
+淬火剂	cui huo ji	1
+淬火状态	cui huo zhuang tai	1
+淬透性	cui tou xing	1
+搭桥	da qiao	1
+大分子链	da fen zi lian	1
+带传动	dai chuan dong	1
+带锯	dai ju	1
+带锯床	dai ju chuang	1
+单键	dan jian	1
+单键内旋	dan jian nei xuan	1
+单晶制备	dan jing zhi bei	1
+单体	dan ti	1
+单相金属	dan xiang jin shu	1
+单相轧压镀锡薄铁片	dan xiang zha ya du xi bo tie pian	1
+单相轧压镀锡薄铁片	dan xiang ya ya du xi bo tie pian	1
+单相轧压镀锡薄铁片	dan xiang ga ya du xi bo tie pian	1
+单斜	dan xie	1
+氮化铝	dan hua lv	1
+弹簧不锈钢线	tan huang bu xiu gang xian	1
+弹簧用碳钢片	tan huang yong tan gang pian	1
+弹性	tan xing	1
+弹性限度	tan xing xian du	1
+刀具	dao ju	1
+刀片	dao pian	1
+倒后擦发条	dao hou ca fa tiao	1
+倒角机	dao jiao ji	1
+导带	dao dai	1
+导电性	dao dian xing	1
+导热度	dao re du	1
+道角	dao jiao	1
+道角	dao jue	1
+灯蕊效应	deng rui xiao ying	1
+低碳钢	di tan gang	1
+低碳钢或铁基层金属	di tan gang huo tie ji ceng jin shu	1
+低碳钢线	di tan gang xian	1
+低碳马氏体不锈钢	di tan ma shi ti bu xiu gang	1
+低温超导材料	di wen chao dao cai liao	1
+低温脆性	di wen cui xing	1
+低温回火	di wen hui huo	1
+低温退火	di wen tui huo	1
+第二潜变期	di er qian bian qi	1
+第二维利系数	di er wei li xi shu	1
+第二相强化	di er xiang qiang hua	1
+第三潜变期	di san qian bian qi	1
+第一潜变期	di yi qian bian qi	1
+点焊	dian han	1
+点蚀	dian shi	1
+垫板	dian ban	1
+垫圈	dian juan	1
+垫圈	dian quan	1
+电导	dian dao	1
+电导率	dian dao lv	1
+电镀金属钢片	dian du jin shu gang pian	1
+电镀金属捆片	dian du jin shu kun pian	1
+电镀锌钢片	dian du xin gang pian	1
+电负性	dian fu xing	1
+电化学腐蚀	dian hua xue fu shi	1
+电火花机	dian huo hua ji	1
+电极电位	dian ji dian wei	1
+电解钢片	dian jie gang pian	1
+电解质	dian jie zhi	1
+电介质的击穿	dian jie zhi de ji chuan	1
+电炉	dian lu	1
+电脑数控车床	dian nao shu kong che chuang	1
+电脑数控电火花机	dian nao shu kong dian huo hua ji	1
+电脑数控电火花线切削机	dian nao shu kong dian huo hua xian qie xiao ji	1
+电脑数控雕刻机	dian nao shu kong diao ke ji	1
+电脑数控机床配件	dian nao shu kong ji chuang pei jian	1
+电脑数控剪切机	dian nao shu kong jian qie ji	1
+电脑数控磨床	dian nao shu kong mo chuang	1
+电脑数控弯折机	dian nao shu kong wan zhe ji	1
+电脑数控铣床	dian nao shu kong xi chuang	1
+电脑数控线切削机	dian nao shu kong xian qie xiao ji	1
+电脑数控钻床	dian nao shu kong zuan chuang	1
+电脑数控镗床	dian nao shu kong tang chuang	1
+电器用硅	dian qi yong gui	1
+电冶金	dian ye jin	1
+电子位移极化	dian zi wei yi ji hua	1
+电阻焊	dian zu han	1
+电阻率	dian zu lv	1
+雕刻机	diao ke ji	1
+叠板结构	die ban jie gou	1
+丁二烯	ding er xi	1
+定取向芯钢片	ding qu xiang xin gang pian	1
+定位梢	ding wei shao	1
+定位梢	ding wei sao	1
+定型发条	ding xing fa tiao	1
+动力学	dong li xue	1
+镀层质量标记	du ceng zhi liang biao ji	1
+镀铬	du ge	1
+镀黄铜	du huang tong	1
+镀金	du jin	1
+镀铝硅钢片	du lv gui gang pian	1
+镀镍	du nie	1
+镀锌低碳钢线	du xin di tan gang xian	1
+锻铝	duan lv	1
+锻模	duan mo	1
+锻压机	duan ya ji	1
+锻造	duan zao	1
+断后伸长率	duan hou shen chang lv	1
+断裂韧性	duan lie ren xing	1
+断路	duan lu	1
+断面收缩率	duan mian shou suo lv	1
+断面缩率	duan mian suo lv	1
+对苯二甲酸丁二酯	dui ben er jia suan ding er zhi	1
+对不准	dui bu zhun	1
+对称性	dui chen xing	1
+对准用标记	dui zhun yong biao ji	1
+多分散性	duo fen san xing	1
+多轴钻床	duo zhou zuan chuang	1
+二次电子成像	er ci dian zi cheng xiang	1
+二次功能	er ci gong neng	1
+二级线材	er ji xian cai	1
+发条	fa tiao	1
+发条片	fa tiao pian	1
+反回蚀	fan hui shi	1
+反射	fan she	1
+反射炉	fan she lu	1
+反式	fan shi	1
+反铁磁体	fan tie ci ti	1
+芳环	fang huan	1
+芳纶纤维	fang lun xian wei	1
+芳香族	fang xiang zu	1
+方线公差	fang xian gong cha	1
+方线公差	fang xian gong chai	1
+防热钢	fang re gang	1
+仿生材料	fang sheng cai liao	1
+仿形铣床	fang xing xi chuang	1
+放射区	fang she qu	1
+放射线探伤法	fang she xian tan shang fa	1
+非晶	fei jing	1
+非晶粒取向	fei jing li qu xiang	1
+非晶态	fei jing tai	1
+非扩散型相变	fei kuo san xing xiang bian	1
+飞针测试	fei zhen ce shi	1
+沸腾钢	fei teng gang	1
+酚醛	fen quan	1
+酚醛树脂	fen quan shu zhi	1
+酚醛塑料	fen quan su liao	1
+分割工具头	fen ge gong ju tou	1
+分率	fen lv	1
+分析	fen xi	1
+分子键	fen zi jian	1
+分子链	fen zi lian	1
+分子量	fen zi liang	1
+粉红圈	fen hong quan	1
+粉末冶金	fen mo ye jin	1
+粉末冶金成型机	fen mo ye jin cheng xing ji	1
+风刀	feng dao	1
+缝隙腐蚀	feng xi fu shi	1
+辐照老化	fu zhao lao hua	1
+氟塑料	fu su liao	1
+氟乙烯	fu yi xi	1
+腐蚀磨损	fu shi mo sun	1
+腐蚀疲劳	fu shi pi lao	1
+复合材料	fu he cai liao	1
+复合材料增韧机制	fu he cai liao zeng ren ji zhi	1
+复合材料中界面作用	fu he cai liao zhong jie mian zuo yong	1
+负磁力效应	fu ci li xiao ying	1
+负离子配位多面体	fu li zi pei wei duo mian ti	1
+负片	fu pian	1
+钢板	gang ban	1
+钢锻	gang duan	1
+钢化玻璃	gang hua bo li	1
+钢锯	gang ju	1
+钢片	gang pian	1
+杠杆定律	gang gan ding lv	1
+高弹态	gao tan tai	1
+高锰钢铸	gao meng gang zhu	1
+高硼定取向芯钢片	gao peng ding qu xiang xin gang pian	1
+高速车床	gao su che chuang	1
+高速钻床	gao su zuan chuang	1
+高碳钢	gao tan gang	1
+高碳钢片	gao tan gang pian	1
+高碳钢线枝	gao tan gang xian zhi	1
+高温超导材料	gao wen chao dao cai liao	1
+高温回火	gao wen hui huo	1
+高压聚焦电位器	gao ya ju jiao dian wei qi	1
+格子常数	ge zi chang shu	1
+隔板	ge ban	1
+铬钢	ge gang	1
+铬镍不锈钢	ge nie bu xiu gang	1
+铬系耐热钢	ge xi nai re gang	1
+铬钼钢钢材	ge mu gang gang cai	1
+工具孔	gong ju kong	1
+工艺	gong yi	1
+工艺性能	gong yi xing neng	1
+工作稿	gong zuo gao	1
+工作母片	gong zuo mu pian	1
+工作片	gong zuo pian	1
+攻螺丝机	gong luo si ji	1
+功能材料	gong neng cai liao	1
+功能高分子	gong neng gao fen zi	1
+公差	gong cha	1
+公差	gong chai	1
+弓锯	gong ju	1
+共混	gong hun	1
+共价键	gong jia jian	1
+共晶	gong jing	1
+共晶反应	gong jing fan ying	1
+共晶合金	gong jing he jin	1
+共晶相图	gong jing xiang tu	1
+共聚物	gong ju wu	1
+共释变态	gong shi bian tai	1
+共释钢	gong shi gang	1
+共析	gong xi	1
+共析反应	gong xi fan ying	1
+共析钢	gong xi gang	1
+构象	gou xiang	1
+构型	gou xing	1
+构造	gou zao	1
+故障	gu zhang	1
+固熔体	gu rong ti	1
+固溶化	gu rong hua	1
+固溶强化	gu rong qiang hua	1
+固溶体	gu rong ti	1
+固体电解质	gu ti dian jie zhi	1
+固体物质	gu ti wu zhi	1
+固相	gu xiang	1
+固相率	gu xiang lv	1
+固相率	gu xiang shuai	1
+刮刀	gua dao	1
+挂架	gua jia	1
+官能度	guan neng du	1
+管钳子	guan qian zi	1
+管筒制造机	guan tong zhi zao ji	1
+光存储材料	guang cun chu cai liao	1
+光导纤维	guang dao xian wei	1
+光电转换材料	guang dian zhuan huan cai liao	1
+光辉退火	guang hui tui huo	1
+光老化	guang lao hua	1
+光敏剂	guang min ji	1
+光透射	guang tou she	1
+光线	guang xian	1
+光学点	guang xue dian	1
+光学绘图机	guang xue hui tu ji	1
+光学显微镜	guang xue xian wei jing	1
+光泽	guang ze	1
+光子	guang zi	1
+规范	gui fan	1
+硅钢片	gui gang pian	1
+硅酸盐结构	gui suan yan jie gou	1
+硅酸盐水泥	gui suan yan shui ni	1
+硅氧	gui yang	1
+滚焊	gun han	1
+滚筒	gun tong	1
+过共晶体	guo gong jing ti	1
+过共释钢	guo gong shi gang	1
+含硫易车钢	han liu yi che gang	1
+含铅易车钢	han qian yi che gang	1
+含铁体不锈钢	han tie ti bu xiu gang	1
+焊垫	han dian	1
+焊接	han jie	1
+焊接合金	han jie he jin	1
+焊接能力	han jie neng li	1
+合金平衡状态	he jin ping heng zhuang tai	1
+黑化还原	hei hua huan yuan	1
+厚度	hou du	1
+厚度及阔度公差	hou du ji kuo du gong cha	1
+厚度及阔度公差	hou du ji kuo du gong chai	1
+胡克	hu ke	1
+胡克定律	hu ke ding lv	1
+虎克定律	hu ke ding lv	1
+虎钳	hu qian	1
+互相连通	hu xiang lian tong	1
+滑动面	hua dong mian	1
+化金	hua jin	1
+化学成份	hua xue cheng fen	1
+化学成份分析表	hua xue cheng fen fen xi biao	1
+化学腐蚀	hua xue fu shi	1
+化学结合	hua xue jie he	1
+化学气相沉积	hua xue qi xiang chen ji	1
+化学位	hua xue wei	1
+化学纤维	hua xue xian wei	1
+化学性能	hua xue xing neng	1
+化学元素	hua xue yuan su	1
+环氧	huan yang	1
+环氧树脂	huan yang shu zhi	1
+环氧塑料	huan yang su liao	1
+换模系统	huan mo xi tong	1
+换模系统	huan mu xi tong	1
+黄铜基层金属	huang tong ji ceng jin shu	1
+回复柔软	hui fu rou ruan	1
+回火	hui huo	1
+回火脆性	hui huo cui xing	1
+回火状态	hui huo zhuang tai	1
+回蚀	hui shi	1
+混合法则	hun he fa ze	1
+活扳子	huo ban zi	1
+活络扳手	huo luo ban shou	1
+火法冶金	huo fa ye jin	1
+火线	huo xian	1
+基层金属	ji ceng jin shu	1
+基体	ji ti	1
+基元	ji yuan	1
+基准记号	ji zhun ji hao	1
+机械工具	ji xie gong ju	1
+机械加工	ji xie jia gong	1
+机械性能	ji xie xing neng	1
+畸变	ji bian	1
+激光	ji guang	1
+激光表面改性	ji guang biao mian gai xing	1
+激光雕刻机	ji guang diao ke ji	1
+激光钢板切割机	ji guang gang ban qie ge ji	1
+激光切割	ji guang qie ge	1
+极化率	ji hua lv	1
+极化强度	ji hua qiang du	1
+集合管	ji he guan	1
+挤出成型	ji chu cheng xing	1
+挤出物	ji chu wu	1
+挤出胀大	ji chu zhang da	1
+挤塑	ji su	1
+挤压	ji ya	1
+夹层系数	jia ceng xi shu	1
+夹具	jia ju	1
+夹盘	jia pan	1
+夹钳	jia qian	1
+加工方法	jia gong fang fa	1
+加工性能	jia gong xing neng	1
+加工硬化	jia gong ying hua	1
+加工中心机刀库	jia gong zhong xin ji dao ku	1
+加聚	jia ju	1
+加聚反应	jia ju fan ying	1
+加速剂	jia su ji	1
+加速实验	jia su shi yan	1
+甲基	jia ji	1
+甲基丙烯酸	jia ji bing xi suan	1
+甲基丙烯酸甲脂	jia ji bing xi suan jia zhi	1
+甲醛	jia quan	1
+假曲率	jia qu lv	1
+价带	jia dai	1
+间同	jian tong	1
+间同立构	jian tong li gou	1
+间隙原子	jian xi yuan zi	1
+检查钻孔层	jian cha zuan kong ceng	1
+剪切唇	jian qie chun	1
+剪切带	jian qie dai	1
+剪切机	jian qie ji	1
+剪线钳	jian xian qian	1
+剪子	jian zi	1
+键合硅铝丝	jian he gui lv si	1
+键合金丝	jian he jin si	1
+浆料	jiang liao	1
+降伏强度	xiang fu qiang du	1
+降解	jiang jie	1
+焦磷酸铕	jiao lin suan you	1
+焦磷酸锶	jiao lin suan si	1
+胶含量	jiao han liang	1
+胶化时间	jiao hua shi jian	1
+胶流量	jiao liu liang	1
+胶束	jiao shu	1
+胶渣	jiao zha	1
+胶粘剂	jiao zhan ji	1
+交变	jiao bian	1
+交换能量	jiao huan neng liang	1
+交换作用	jiao huan zuo yong	1
+交联	jiao lian	1
+交联度	jiao lian du	1
+浇铸成型	jiao zhu cheng xing	1
+矫顽磁力	jiao wan ci li	1
+矫顽力	jiao wan li	1
+矫直机	jiao zhi ji	1
+接枝	jie zhi	1
+截面积	jie mian ji	1
+结构	jie gou	1
+结构陶瓷	jie gou tao ci	1
+结晶度	jie jing du	1
+结晶型低温封接玻璃粉	jie jing xing di wen feng jie bo li fen	1
+解理断裂	jie li duan lie	1
+介质磁导率	jie zhi ci dao lv	1
+介质极化系数	jie zhi ji hua xi shu	1
+介质损耗	jie zhi sun hao	1
+介质陶瓷材料	jie zhi tao ci cai liao	1
+金箔	jin bo	1
+金红石瓷	jin hong shi ci	1
+金手指斜边	jin shou zhi xie bian	1
+金属板成型机	jin shu ban cheng xing ji	1
+金属板加工机	jin shu ban jia gong ji	1
+金属半固态加工	jin shu ban gu tai jia gong	1
+金属薄膜	jin shu bao mo	1
+金属变态	jin shu bian tai	1
+金属磁粉	jin shu ci fen	1
+金属基覆铜箔板	jin shu ji fu tong bo ban	1
+金属间化物	jin shu jian hua wu	1
+金属键	jin shu jian	1
+金属结晶格子	jin shu jie jing ge zi	1
+金属捆片电镀层	jin shu kun pian dian du ceng	1
+金属丝筛网	jin shu si shai wang	1
+金属塑性	jin shu su xing	1
+金属特性	jin shu te xing	1
+金属雾化喷射沉积	jin shu wu hua pen she chen ji	1
+金属芯覆铜箔板	jin shu xin fu tong bo ban	1
+金属与合金	jin shu yu he jin	1
+金相	jin xiang	1
+禁带	jin dai	1
+浸金	jin jin	1
+浸镍金	jin nie jin	1
+浸涂防粘隔离剂	jin tu fang zhan ge li ji	1
+晶胞	jing bao	1
+晶间腐蚀	jing jian fu shi	1
+晶界	jing jie	1
+晶界强化	jing jie qiang hua	1
+晶粒尺寸	jing li chi cun	1
+晶粒取向	jing li qu xiang	1
+晶粒取向电器用硅钢片	jing li qu xiang dian qi yong gui gang pian	1
+晶区	jing qu	1
+晶态	jing tai	1
+晶体	jing ti	1
+晶体反应	jing ti fan ying	1
+晶体清洗剂	jing ti qing xi ji	1
+晶体粘合剂	jing ti nian he ji	1
+晶须	jing xu	1
+晶圆切割机	jing yuan qie ge ji	1
+精密平口钳	jing mi ping kou qian	1
+精研机	jing yan ji	1
+颈缩	jing suo	1
+静电喷涂	jing dian pen tu	1
+竞聚率	jing ju lv	1
+净磁矩	jing ci ju	1
+局部镀银铜带	ju bu du yin tong dai	1
+聚氨酯	ju an zhi	1
+聚氨酯封装料	ju an zhi feng zhuang liao	1
+聚氨酯无蜡抛光软垫	ju an zhi wu la pao guang ruan dian	1
+聚苯醚	ju ben mi	1
+聚苯乙烯	ju ben yi xi	1
+聚丙烯	ju bing xi	1
+聚丙烯酸	ju bing xi suan	1
+聚丙烯酰胺	ju bing xi xian an	1
+聚丁二烯	ju ding er xi	1
+聚对苯二甲酸丁二酯	ju dui ben er jia suan ding er zhi	1
+聚对苯二甲酰对苯二胺	ju dui ben er jia xian dui ben er an	1
+聚二甲基硅氧烷	ju er jia ji gui yang wan	1
+聚合度	ju he du	1
+聚合物	ju he wu	1
+聚集态	ju ji tai	1
+聚甲基丙烯酸	ju jia ji bing xi suan	1
+聚甲基丙烯酸甲脂	ju jia ji bing xi suan jia zhi	1
+聚甲醛	ju jia quan	1
+聚氯丁二烯	ju lv ding er xi	1
+聚氯化膦腈	ju lv hua lin jing	1
+聚氯乙烯	ju lv yi xi	1
+聚醚	ju mi	1
+聚醚醚酮	ju mi mi tong	1
+聚偏二氯乙烯	ju pian er lv yi xi	1
+聚偏氟乙烯	ju pian fu yi xi	1
+聚四氟乙烯	ju si fu yi xi	1
+聚四甲基对亚苯基硅氧烷	ju si jia ji dui ya ben ji gui yang wan	1
+聚缩醛	ju suo quan	1
+聚碳酸脂	ju tan suan zhi	1
+聚烯胺	ju xi an	1
+聚氧化乙烯	ju yang hua yi xi	1
+聚已二酰已二胺	ju yi er xian yi er an	1
+聚乙炔	ju yi que	1
+聚乙酸乙烯脂	ju yi suan yi xi zhi	1
+聚乙烯	ju yi xi	1
+聚乙烯醇	ju yi xi chun	1
+聚乙烯醇肉桂酸酯光刻胶	ju yi xi chun rou gui suan zhi guang ke jiao	1
+聚乙烯基甲基醚	ju yi xi ji jia ji mi	1
+聚异丁烯	ju yi ding xi	1
+聚异戊二烯	ju yi wu er xi	1
+聚脂	ju zhi	1
+聚脂胶粘带	ju zhi jiao zhan dai	1
+聚吡咯	ju bi luo	1
+聚砜	ju feng	1
+聚羟基乙酸	ju qiang ji yi suan	1
+聚酰胺	ju xian an	1
+聚酰亚胺	ju xian ya an	1
+聚酰亚胺涂层胶	ju xian ya an tu ceng jiao	1
+聚酯型光刻胶	ju zhi xing guang ke jiao	1
+拒收	ju shou	1
+锯床	ju chuang	1
+锯片	ju pian	1
+卷边工具	juan bian gong ju	1
+绝对介电常数	jue dui jie dian chang shu	1
+绝缘表面	jue yuan biao mian	1
+绝缘体	jue yuan ti	1
+绝缘涂层	jue yuan tu ceng	1
+绝缘阻抗	jue yuan zu kang	1
+均方	jun fang	1
+均聚物	jun ju wu	1
+均热炉	jun re lu	1
+卡规	ka gui	1
+卡口	ka kou	1
+卡盘	ka pan	1
+开槽	kai cao	1
+康铜极薄带材	kang tong ji bo dai cai	1
+抗磁体	kang ci ti	1
+抗磁性	kang ci xing	1
+抗电磁干扰镍铜锌系铁氧体	kang dian ci gan rao nie tong xin xi tie yang ti	1
+抗腐蚀及耐用	kang fu shi ji nai yong	1
+抗化学品能力	kang hua xue pin neng li	1
+抗拉强度	kang la qiang du	1
+抗敏感及环境保护	kang min gan ji huan jing bao hu	1
+抗热超级合金	kang re chao ji he jin	1
+抗热钢弹簧线材	kang re gang tan huang xian cai	1
+抗撕强度	kang si qiang du	1
+可调手钳	ke tiao shou qian	1
+可锻铸铁	ke duan zhu tie	1
+可伐合金	ke fa he jin	1
+客户原稿	ke hu yuan gao	1
+空带	kong dai	1
+空位	kong wei	1
+孔径	kong jing	1
+孔数	kong shu	1
+孔位	kong wei	1
+控制轧制	kong zhi zha zhi	1
+快速换模系统	kuai su huan mo xi tong	1
+快速换模系统	kuai su huan mu xi tong	1
+宽频带镍铜锌系铁氧体	kuan pin dai nie tong xin xi tie yang ti	1
+扩孔钻	kuo kong zuan	1
+扩散退火	kuo san tui huo	1
+扩散型相变	kuo san xing xiang bian	1
+阔度公差	kuo du gong cha	1
+阔度公差	kuo du gong chai	1
+拉拔强化	la ba qiang hua	1
+拉尺发条	la chi fa tiao	1
+拉伸测试	la shen ce shi	1
+莱氏体	lai shi ti	1
+蓝色荧光粉硫化锌	lan se ying guang fen liu hua xin	1
+蓝色荧光粉铝酸钡锶	lan se ying guang fen lv suan bei si	1
+捞型	lao xing	1
+老化	lao hua	1
+雷射曝光对位孔	lei she bao guang dui wei kong	1
+冷冲	leng chong	1
+冷冲及冷锻用碳钢线材	leng chong ji leng duan yong tan gang xian cai	1
+冷锻	leng duan	1
+冷锻冲压机	leng duan chong ya ji	1
+冷焊点	leng han dian	1
+冷加工	leng jia gong	1
+冷拉	leng la	1
+冷拉钢板	leng la gang ban	1
+冷拉钢枝材	leng la gang zhi cai	1
+冷拉高碳钢线	leng la gao tan gang xian	1
+冷却机	leng que ji	1
+冷却器	leng que qi	1
+冷轧钢片	leng zha gang pian	1
+冷轧钢片阔度公差	leng zha gang pian kuo du gong cha	1
+冷轧钢片阔度公差	leng zha gang pian kuo du gong chai	1
+冷轧高碳钢	leng zha gao tan gang	1
+冷轧状态	leng zha zhuang tai	1
+冷辘钢捆片	leng lu gang kun pian	1
+冷辘钢片	leng lu gang pian	1
+离心力	li xin li	1
+离心压力机	li xin ya li ji	1
+离子半径	li zi ban jing	1
+离子键	li zi jian	1
+离子晶体结构	li zi jing ti jie gou	1
+离子位移极化	li zi wei yi ji hua	1
+离子性污染	li zi xing wu ran	1
+离子注入	li zi zhu ru	1
+立方	li fang	1
+立构	li gou	1
+立式车床	li shi che chuang	1
+立式带锯	li shi dai ju	1
+立式及卧式铣床	li shi ji wo shi xi chuang	1
+立式加工中心	li shi jia gong zhong xin	1
+立式刨床	li shi bao chuang	1
+立式双柱加工中心	li shi shuang zhu jia gong zhong xin	1
+立式铣床	li shi xi chuang	1
+立式油压拉床	li shi you ya la chuang	1
+立式钻床	li shi zuan chuang	1
+粒子数反转	li zi shu fan zhuan	1
+联轴器	lian zhou qi	1
+连接功能	lian jie gong neng	1
+连锁聚合反应	lian suo ju he fan ying	1
+连续冲模	lian xu chong mu	1
+连续溶解保温炉	lian xu rong jie bao wen lu	1
+连续铸造法	lian xu zhu zao fa	1
+廉幕印刷	lian mu yin shua	1
+链传动	lian chuan dong	1
+链段	lian duan	1
+链节	lian jie	1
+链转移剂	lian zhuan yi ji	1
+良品	liang pin	1
+两面不均等锡层	liang mian bu jun deng xi ceng	1
+两面均等锡层	liang mian jun deng xi ceng	1
+裂痕	lie hen	1
+磷光材料	lin guang cai liao	1
+磷化铟单晶	lin hua yin dan jing	1
+磷化铟外延材料	lin hua yin wai yan cai liao	1
+磷化镓单晶	lin hua jia dan jing	1
+磷酸	lin suan	1
+磷酸氧钛钾晶体	lin suan yang tai jia jing ti	1
+磷酸镓单晶	lin suan jia dan jing	1
+临界温度	lin jie wen du	1
+零件孔	ling jian kong	1
+零件面	ling jian mian	1
+零色散位移单模光纤	ling se san wei yi dan mo guang xian	1
+硫化铜	liu hua tong	1
+硫化锌	liu hua xin	1
+硫化银	liu hua yin	1
+硫酸	liu suan	1
+硫酸钇	liu suan yi	1
+硫氧化锌	liu yang hua xin	1
+流变成形	liu bian cheng xing	1
+流变浆料	liu bian jiang liao	1
+流变压铸	liu bian ya zhu	1
+流变压铸工艺	liu bian ya zhu gong yi	1
+六方硫化锌	liu fang liu hua xin	1
+六方铝酸镁镧钕晶体	liu fang lv suan mei lan nv jing ti	1
+六角车床	liu jiao che chuang	1
+六角立式铣床	liu jiao li shi xi chuang	1
+铝硅铁粉芯	lv gui tie fen xin	1
+铝轮冒口切断机	lv lun mao kou qie duan ji	1
+铝镍永磁体	lv nie yong ci ti	1
+铝镍钴永磁	lv nie gu yong ci	1
+铝镍钴永磁体	lv nie gu yong ci ti	1
+铝酸镁单晶	lv suan mei dan jing	1
+铝酸镧单晶	lv suan lan dan jing	1
+铝锂合金	lv li he jin	1
+氯丁二烯	lv ding er xi	1
+氯乙烯	lv yi xi	1
+滤色膜用彩色树脂浆	lv se mo yong cai se shu zhi jiang	1
+绿色荧光粉	lv se ying guang fen	1
+绿碳化硅微粉	lv tan hua gui wei fen	1
+孪晶界	luan jing jie	1
+螺母	luo mu	1
+螺栓	luo shuan	1
+螺位错	luo wei cuo	1
+螺纹磨床	luo wen mo chuang	1
+洛氏	luo shi	1
+洛氏硬度	luo shi ying du	1
+马口铁	ma kou tie	1
+马来酸酐	ma lai suan gan	1
+马氏体	ma shi ti	1
+马氏体不锈钢	ma shi ti bu xiu gang	1
+马氏体淬火	ma shi ti cui huo	1
+马氏铁体淬火	ma shi tie ti cui huo	1
+埋弧焊	mai hu han	1
+漫反射	man fan she	1
+铆钉	mao ding	1
+镁锌铁氧体	mei xin tie yang ti	1
+镁橄榄石瓷	mei gan lan shi ci	1
+美国材料测试标准	mei guo cai liao ce shi biao zhun	1
+美国材验学会	mei guo cai yan xue hui	1
+美国工业标准	mei guo gong ye biao zhun	1
+锰白铜丝	meng bai tong si	1
+锰锌铁氧体	meng xin tie yang ti	1
+锰锌系铁氧体材料高磁导率锰锌铁氧体	meng xin xi tie yang ti cai liao gao ci dao lv meng xin tie yang ti	1
+弥散	mi san	1
+弥散强化	mi san qiang hua	1
+弥散强化无氧铜	mi san qiang hua wu yang tong	1
+弥散增韧	mi san zeng ren	1
+米勒指数	mi le zhi shu	1
+密排六方	mi pai liu fang	1
+免清洗波峰焊剂	mian qing xi bo feng han ji	1
+免清洗焊锡丝	mian qing xi han xi si	1
+免清洗助焊剂	mian qing xi zhu han ji	1
+面铜	mian tong	1
+面心立方	mian xin li fang	1
+模具	mu ju	1
+模具打磨	mu ju da mo	1
+模具单元	mu ju dan yuan	1
+模具加热器	mu ju jia re qi	1
+模具维修	mu ju wei xiu	1
+模孔	mo kong	1
+模孔	mu kong	1
+模芯	mo xin	1
+模芯	mu xin	1
+模压成型	mo ya cheng xing	1
+磨床	mo chuang	1
+磨床工作台	mo chuang gong zuo tai	1
+磨粒磨损	mo li mo sun	1
+磨轮	mo lun	1
+磨损失效	mo sun shi xiao	1
+磨纹	mo wen	1
+磨削工具	mo xue gong ju	1
+抹音磁头环氧灌封料	mo yin ci tou huan yang guan feng liao	1
+抹音磁头环氧灌封料	ma yin ci tou huan yang guan feng liao	1
+纳米陶瓷	na mi tao ci	1
+耐腐蚀性	nai fu shi xing	1
+耐高温胶粘剂	nai gao wen jiao zhan ji	1
+耐磨性	nai mo xing	1
+耐热不锈钢	nai re bu xiu gang	1
+耐热不锈钢比重表	nai re bu xiu gang bi zhong biao	1
+耐热型纸基压敏胶粘带	nai re xing zhi ji ya min jiao zhan dai	1
+耐热性	nai re xing	1
+挠曲	nao qu	1
+挠性覆铜箔材料	nao xing fu tong bo cai liao	1
+内层	nei ceng	1
+内导电石墨乳	nei dao dian shi mo ru	1
+内聚能	nei ju neng	1
+内外层	nei wai ceng	1
+内旋转	nei xuan zhuan	1
+能带	neng dai	1
+能隙	neng xi	1
+尿素	niao su	1
+镍板	nie ban	1
+镍带	nie dai	1
+镍铬	nie ge	1
+镍铬耐热钢	nie ge nai re gang	1
+镍铬系不锈钢	nie ge xi bu xiu gang	1
+镍铬系耐热不锈钢	nie ge xi nai re bu xiu gang	1
+镍铬钼钢	nie ge mu gang	1
+镍合金丝	nie he jin si	1
+镍及镍合金带	nie ji nie he jin dai	1
+镍及镍合金管	nie ji nie he jin guan	1
+镍及镍合金丝	nie ji nie he jin si	1
+镍铁氧体材料系列	nie tie yang ti cai liao xi lie	1
+镍铁氧体高功率材料系列	nie tie yang ti gao gong lv cai liao xi lie	1
+镍铜合金	nie tong he jin	1
+镍铜锌	nie tong xin	1
+镍线	nie xian	1
+镍锌铁氧体	nie xin tie yang ti	1
+镍锌系	nie xin xi	1
+镍锌系铁氧体材料	nie xin xi tie yang ti cai liao	1
+牛顿流体	niu dun liu ti	1
+牛头刨床	niu tou bao chuang	1
+偶合终止	ou he zhong zhi	1
+爬杆效应	pa gan xiao ying	1
+抛光	pao guang	1
+刨床	bao chuang	1
+泡点	pao dian	1
+配位数	pei wei shu	1
+喷金丝	pen jin si	1
+喷砂	pen sha	1
+喷涂	pen tu	1
+喷涂纯锌丝	pen tu chun xin si	1
+喷锡	pen xi	1
+硼酸锰	peng suan meng	1
+硼酸铯锂晶体	peng suan se li jing ti	1
+硼酸镉	peng suan ge	1
+硼纤维	peng xian wei	1
+批量	pi liang	1
+疲劳测试	pi lao ce shi	1
+疲劳断裂	pi lao duan lie	1
+疲劳磨损	pi lao mo sun	1
+偏二氯乙烯	pian er lv yi xi	1
+偏氟乙烯	pian fu yi xi	1
+偏晶反应	pian jing fan ying	1
+偏圆度	pian yuan du	1
+偏转	pian zhuan	1
+片及板材	pian ji ban cai	1
+品管	pin guan	1
+品质允收水准	pin zhi yun shou shui zhun	1
+平衡设备	ping heng she bei	1
+平坦度	ping tan du	1
+破坏的检验	po huai de jian yan	1
+普适	pu shi	1
+其他锰锌铁氧体	qi ta meng xin tie yang ti	1
+歧化	qi hua	1
+歧化终止	qi hua zhong zhi	1
+起泡	qi pao	1
+器壁	qi bi	1
+器皿	qi min	1
+气动冲床	qi dong chong chuang	1
+气动工具	qi dong gong ju	1
+气焊	qi han	1
+气炼石英玻璃	qi lian shi ying bo li	1
+气炼透明石英玻璃管	qi lian tou ming shi ying bo li guan	1
+气泡	qi pao	1
+气相沉积氮化硼陶瓷	qi xiang chen ji dan hua peng tao ci	1
+气油压虎钳	qi you ya hu qian	1
+铅水线	qian shui xian	1
+迁移率	qian yi lv	1
+潜变测试	qian bian ce shi	1
+潜变强度	qian bian qiang du	1
+嵌段	qian duan	1
+切变	qie bian	1
+切变模量	qie bian mo liang	1
+切断机	qie duan ji	1
+切削加工	qie xiao jia gong	1
+琴线	qin xian	1
+青铜	qing tong	1
+氢氟酸	qing fu suan	1
+氢键	qing jian	1
+氢氧化铵	qing yang hua an	1
+氢致延迟断裂	qing zhi yan chi duan lie	1
+清洗及烘烤	qing xi ji hong kao	1
+球化退火	qiu hua tui huo	1
+球晶	qiu jing	1
+曲柄压力机	qu bing ya li ji	1
+曲面	qu mian	1
+屈服点	qu fu dian	1
+屈服强度	qu fu qiang du	1
+屈氏体	qu shi ti	1
+驱动力	qu dong li	1
+取代基	qu dai ji	1
+去毛头	qu mao tou	1
+全反射	quan fan she	1
+全静钢	quan jing gang	1
+全同	quan tong	1
+全同立构	quan tong li gou	1
+缺口	que kou	1
+缺陷	que xian	1
+热处理	re chu li	1
+热风整平助熔剂	re feng zheng ping zhu rong ji	1
+热固性	re gu xing	1
+热加工	re jia gong	1
+热老化	re lao hua	1
+热模拟	re mo ni	1
+热膨胀系数	re peng zhang xi shu	1
+热塑性	re su xing	1
+热轧钢片	re zha gang pian	1
+热轧钢片厚度公差	re zha gang pian hou du gong cha	1
+热轧钢片厚度公差	re zha gang pian hou du gong chai	1
+热轧钢片阔度公差	re zha gang pian kuo du gong cha	1
+热轧钢片阔度公差	re zha gang pian kuo du gong chai	1
+人工时效	ren gong shi xiao	1
+人造石英晶体	ren zao shi ying jing ti	1
+韧窝断口	ren wo duan kou	1
+韧性	ren xing	1
+刃角磨损	ren jiao mo sun	1
+刃位错	ren wei cuo	1
+熔点	rong dian	1
+熔热处理炉	rong re chu li lu	1
+熔铸	rong zhu	1
+溶度	rong du	1
+溶度参数	rong du can shu	1
+柔顺性	rou shun xing	1
+蠕变	ru bian	1
+软磁	ruan ci	1
+软磁材料	ruan ci cai liao	1
+软焊	ruan han	1
+软焊合金	ruan han he jin	1
+软化温度	ruan hua wen du	1
+软铅焊料	ruan qian han liao	1
+润滑系统	run hua xi tong	1
+润滑液	run hua ye	1
+塞孔	sai kong	1
+塞孔底片	sai kong di pian	1
+三角刮刀	san jiao gua dao	1
+三氯甲烷	san lv jia wan	1
+三氯乙烯	san lv yi xi	1
+三硼酸锂晶体	san peng suan li jing ti	1
+三元系压电陶瓷	san yuan xi ya dian tao ci	1
+三爪工具头	san zhao gong ju tou	1
+扫描	sao miao	1
+色心	se xin	1
+砂轮修整器	sha lun xiu zheng qi	1
+闪烁锗酸铋单晶	shan shuo zhe suan bi dan jing	1
+上链发条	shang lian fa tiao	1
+上漆能力	shang qi neng li	1
+烧结永磁铁氧体材料	shao jie yong ci tie yang ti cai liao	1
+舍弃式刀头	she qi shi dao tou	1
+砷化镓单晶	shen hua jia dan jing	1
+砷化镓外延材料	shen hua jia wai yan cai liao	1
+砷酸镁	shen suan mei	1
+砷酸锰	shen suan meng	1
+伸长度	shen chang du	1
+渗碳体	shen tan ti	1
+渗透探伤法	shen tou tan shang fa	1
+生物降解	sheng wu jiang jie	1
+剩磁	sheng ci	1
+失效分析	shi xiao fen xi	1
+失效机理	shi xiao ji li	1
+失效模式	shi xiao mo shi	1
+湿法冶金	shi fa ye jin	1
+湿制程	shi zhi cheng	1
+石英玻璃	shi ying bo li	1
+石英梯度型多模光纤	shi ying ti du xing duo mo guang xian	1
+时间淬火	shi jian cui huo	1
+时温	shi wen	1
+时温等效	shi wen deng xiao	1
+时效	shi xiao	1
+蚀刻机	shi ke ji	1
+蚀刻缺口	shi ke que kou	1
+使用性能	shi yong xing neng	1
+释出硬化不锈钢	shi chu ying hua bu xiu gang	1
+释汞吸气剂	shi gong xi qi ji	1
+室温固化环氧灌封料	shi wen gu hua huan yang guan feng liao	1
+室温硫化灌封硅橡胶	shi wen liu hua guan feng gui xiang jiao	1
+室温硫化硅橡胶	shi wen liu hua gui xiang jiao	1
+室温硫化硅橡胶包	shi wen liu hua gui xiang jiao bao	1
+室温压缩	shi wen ya suo	1
+输送链	shu song lian	1
+树脂下限	shu zhi xia xian	1
+树脂芯焊锡丝	shu zhi xin han xi si	1
+数据石英光纤	shu ju shi ying guang xian	1
+数均	shu jun	1
+数孔机	shu kong ji	1
+衰减	shuai jian	1
+双单光片	shuang dan guang pian	1
+双节线	shuang jie xian	1
+双面	shuang mian	1
+双面板	shuang mian ban	1
+双头扳子	shuang tou ban zi	1
+双相辗压镀锡薄钢片	shuang xiang zhan ya du xi bo gang pian	1
+双相辗压镀锡薄钢片	shuang xiang zhan ya du xi bao gang pian	1
+双向拉伸聚丙烯薄膜	shuang xiang la shen ju bing xi bao mo	1
+水溶性光刻胶	shui rong xing guang ke jiao	1
+水溶性光致变色抗蚀干膜	shui rong xing guang zhi bian se kang shi gan mo	1
+水溶性焊剂	shui rong xing han ji	1
+水溶性助焊剂	shui rong xing zhu han ji	1
+顺磁体	shun ci ti	1
+顺磁性	shun ci xing	1
+顺式	shun shi	1
+顺纹测试	shun wen ce shi	1
+丝网感光胶	si wang gan guang jiao	1
+丝网印刷	si wang yin shua	1
+丝印塑料油墨	si yin su liao you mo	1
+四方	si fang	1
+四氟乙烯	si fu yi xi	1
+四硼酸锂单晶	si peng suan li dan jing	1
+伺服冲床	si fu chong chuang	1
+松弛极化	song chi ji hua	1
+松脂酸	song zhi suan	1
+速化反应	su hua fan ying	1
+速换模系统	su huan mo xi tong	1
+速换模系统	su huan mu xi tong	1
+塑化	su hua	1
+塑料光纤	su liao guang xian	1
+塑性	su xing	1
+塑性断裂	su xing duan lie	1
+酸性清洗剂	suan xing qing xi ji	1
+缩聚	suo ju	1
+缩聚反应	suo ju fan ying	1
+索氏体	suo shi ti	1
+碳钢回火	tan gang hui huo	1
+碳化硅	tan hua gui	1
+碳化硅外延材料	tan hua gui wai yan cai liao	1
+碳化硅纤维	tan hua gui xian wei	1
+碳基铁粉芯	tan ji tie fen xin	1
+碳链	tan lian	1
+碳链聚合物	tan lian ju he wu	1
+碳酸盐	tan suan yan	1
+碳污染	tan wu ran	1
+碳纤维	tan xian wei	1
+搪孔头	tang kong tou	1
+搪磨机	tang mo ji	1
+搪锡助焊剂	tang xi zhu han ji	1
+陶瓷成型	tao ci cheng xing	1
+陶瓷基无机覆铜板	tao ci ji wu ji fu tong ban	1
+陶瓷烧结	tao ci shao jie	1
+陶瓷生产工艺	tao ci sheng chan gong yi	1
+套环	tao huan	1
+特高频软磁铁氧体	te gao pin ruan ci tie yang ti	1
+特殊钢	te shu gang	1
+特殊形状	te shu xing zhuang	1
+特种切削液	te zhong qie xiao ye	1
+锑化铟晶体	ti hua yin jing ti	1
+锑化镓单晶	ti hua jia dan jing	1
+锑锰锆钛酸铅压电陶瓷	ti meng gao tai suan qian ya dian tao ci	1
+提防过份氧化	di fang guo fen yang hua	1
+体心立方	ti xin li fang	1
+体型	ti xing	1
+天然松香	tian ran song xiang	1
+跳印	tiao yin	1
+铁磁体	tie ci ti	1
+铁磁性	tie ci xing	1
+铁封接玻璃粉	tie feng jie bo li fen	1
+铁铬系不锈钢	tie ge xi bu xiu gang	1
+铁基层金属	tie ji ceng jin shu	1
+铁及非铁金属	tie ji fei tie jin shu	1
+铁锰铝不锈钢	tie meng lv bu xiu gang	1
+铁镍合金	tie nie he jin	1
+铁镍软磁合金	tie nie ruan ci he jin	1
+铁镍钼粉芯	tie nie mu fen xin	1
+铁素体	tie su ti	1
+铁线	tie xian	1
+铁相	tie xiang	1
+铁氧体	tie yang ti	1
+铁氧体永磁	tie yang ti yong ci	1
+铁钴钒软磁材料	tie gu fan ruan ci cai liao	1
+通用加工中心	tong yong jia gong zhong xin	1
+通用石榴石材料	tong yong shi liu shi cai liao	1
+同素变态	tong su bian tai	1
+铜锻	tong duan	1
+铜基层金属	tong ji ceng jin shu	1
+铜基覆铜箔板	tong ji fu tong bo ban	1
+铜离子抑制剂	tong li zi yi zhi ji	1
+透磁度	tou ci du	1
+透光性	tou guang xing	1
+透明残膜	tou ming can mo	1
+透明石英玻璃仪器	tou ming shi ying bo li yi qi	1
+图像控制功能	tu xiang kong zhi gong neng	1
+涂布印刷	tu bu yin shua	1
+湍流	tuan liu	1
+退火	tui huo	1
+退火低碳钢	tui huo di tan gang	1
+脱胶液	tuo jiao ye	1
+脱膜剂	tuo mo ji	1
+脱碳层	tuo tan ceng	1
+外层	wai ceng	1
+外导电石墨乳	wai dao dian shi mo ru	1
+外弧	wai hu	1
+外价电子	wai jia dian zi	1
+外圆磨床	wai yuan mo chuang	1
+弯度	wan du	1
+弯管机	wan guan ji	1
+弯曲机	wan qu ji	1
+完全退火	wan quan tui huo	1
+万能磨床	wan neng mo chuang	1
+万能铣床	wan neng xi chuang	1
+网版印刷	wang ban yin shua	1
+网版印耍	wang ban yin shua	1
+网布	wang bu	1
+网框	wang kuang	1
+网型	wang xing	1
+微波高值铁氧体谐振子列	wei bo gao zhi tie yang ti xie zhen zi lie	1
+微裂纹增韧	wei lie wen zeng ren	1
+微盲孔	wei mang kong	1
+维氏	wei shi	1
+维氏硬度	wei shi ying du	1
+未端距	wei duan ju	1
+未净钢	wei jing gang	1
+位错	wei cuo	1
+文字印刷	wen zi yin shua	1
+卧式带锯	wo shi dai ju	1
+卧式及立式加工中心	wo shi ji li shi jia gong zhong xin	1
+卧式加工中心	wo shi jia gong zhong xin	1
+卧式铣床	wo shi xi chuang	1
+钨粉	wu fen	1
+钨丝	wu si	1
+钨酸钙	wu suan gai	1
+钨铈电极	wu shi dian ji	1
+钨铼合金丝	wu lai he jin si	1
+无磁不锈钢	wu ci bu xiu gang	1
+无电镀化	wu dian du hua	1
+无电镀铜液	wu dian du tong ye	1
+无定型	wu ding xing	1
+无高效清洗剂	wu gao xiao qing xi ji	1
+无规	wu gui	1
+无规立构	wu gui li gou	1
+无水乙醇	wu shui yi chun	1
+无心磨床	wu xin mo chuang	1
+无氧铜	wu yang tong	1
+物理气相沉积	wu li qi xiang chen ji	1
+物理性能	wu li xing neng	1
+物料科学	wu liao ke xue	1
+物质	wu zhi	1
+吸收	xi shou	1
+吸水性	xi shui xing	1
+锡层质量	xi ceng zhi liang	1
+锡化丝印干膜	xi hua si yin gan mo	1
+锡铅面	xi qian mian	1
+锡桥	xi qiao	1
+锡塞	xi sai	1
+锡塞	xi se	1
+锡锑银镍封装焊料	xi ti yin nie feng zhuang han liao	1
+锡突	xi tu	1
+锡渣还原剂	xi zha huan yuan ji	1
+稀溶液	xi rong ye	1
+稀土钴永磁	xi tu gu yong ci	1
+铣床	xi chuang	1
+铣头	xi tou	1
+细颈	xi jing	1
+纤维区	xian wei qu	1
+纤维增韧	xian wei zeng ren	1
+显微硬度	xian wei ying du	1
+线距	xian ju	1
+线宽	xian kuan	1
+线型	xian xing	1
+相变增韧	xiang bian zeng ren	1
+相对磁导率	xiang dui ci dao lv	1
+相对介电常数	xiang dui jie dian chang shu	1
+相反旋转	xiang fan xuan zhuan	1
+相分离	xiang fen li	1
+相互作用参数	xiang hu zuo yong can shu	1
+相律	xiang lv	1
+相融温度	xiang rong wen du	1
+相同层次	xiang tong ceng ci	1
+相图	xiang tu	1
+橡胶	xiang jiao	1
+橡胶态	xiang jiao tai	1
+向心力	xiang xin li	1
+硝酸	xiao suan	1
+销钉	xiao ding	1
+斜边	xie bian	1
+芯片	xin pian	1
+锌镀层质量	xin du ceng zhi liang	1
+形变极化	xing bian ji hua	1
+形变强化	xing bian qiang hua	1
+形核剂	xing he ji	1
+形状记忆合金	xing zhuang ji yi he jin	1
+性能	xing neng	1
+修整机	xiu zheng ji	1
+序列结构	xu lie jie gou	1
+旋光	xuan guang	1
+旋节线	xuan jie xian	1
+选择吸收	xuan ze xi shou	1
+压力加工	ya li jia gong	1
+压力脚	ya li jiao	1
+压模	ya mu	1
+压膜机	ya mo ji	1
+压塑	ya su	1
+压延成型	ya yan cheng xing	1
+压铸冲模	ya zhu chong mu	1
+压铸机	ya zhu ji	1
+亚共晶体	ya gong jing ti	1
+亚铁磁体	ya tie ci ti	1
+亚铁磁性	ya tie ci xing	1
+亚铁释体	ya tie shi ti	1
+盐酸	yan suan	1
+研磨切割油	yan mo qie ge you	1
+延伸率	yan shen lv	1
+延轧	yan zha	1
+延轧	yan ya	1
+延轧	yan ga	1
+沿晶断裂	yan jing duan lie	1
+厌氧胶	yan yang jiao	1
+杨氏	yang shi	1
+杨氏模量	yang shi mo liang	1
+阳氏弹性系数	yang shi tan xing xi shu	1
+氧化老化	yang hua lao hua	1
+氧化铝	yang hua lv	1
+氧化铝瓷	yang hua lv ci	1
+氧化镍电致变色陶瓷	yang hua nie dian zhi bian se tao ci	1
+氧化铁薄膜	yang hua tie bao mo	1
+氧化钨电致变色陶瓷	yang hua wu dian zhi bian se tao ci	1
+氧化锌	yang hua xin	1
+氧化锌压电电阻陶瓷	yang hua xin ya dian dian zu tao ci	1
+氧化钆	yang hua ga	1
+氧化钇	yang hua yi	1
+氧化钐	yang hua shan	1
+氧化钕	yang hua nv	1
+氧化钪	yang hua kang	1
+氧化钬	yang hua huo	1
+氧化铈	yang hua shi	1
+氧化铍	yang hua pi	1
+氧化铍陶瓷	yang hua pi tao ci	1
+氧化铒	yang hua er	1
+氧化铕	yang hua you	1
+氧化铥	yang hua diu	1
+氧化铽	yang hua te	1
+氧化锆	yang hua gao	1
+氧化锆陶瓷材料	yang hua gao tao ci cai liao	1
+氧化镝	yang hua di	1
+氧化镥	yang hua lu	1
+氧化镧	yang hua lan	1
+氧化镨	yang hua pu	1
+氧化镱	yang hua yi	1
+摇臂钻床	yao bi zuan chuang	1
+冶金	ye jin	1
+液晶	ye jing	1
+液晶显示材料	ye jing xian shi cai liao	1
+液态防焊	ye tai fang han	1
+液体钎剂	ye ti qian ji	1
+液压冲床	ye ya chong chuang	1
+液压动力元件	ye ya dong li yuan jian	1
+液压工具	ye ya gong ju	1
+液压回转缸	ye ya hui zhuan gang	1
+液压元件	ye ya yuan jian	1
+一次功能	yi ci gong neng	1
+已钻孔的裸板	yi zuan kong de luo ban	1
+乙炔	yi que	1
+乙酸丁酯	yi suan ding zhi	1
+乙酸乙烯脂	yi suan yi xi zhi	1
+乙酸乙酯	yi suan yi zhi	1
+乙烯	yi xi	1
+乙烯醇	yi xi chun	1
+乙烯基甲基醚	yi xi ji jia ji mi	1
+易车不锈钢	yi che bu xiu gang	1
+易车钢	yi che gang	1
+易车碳钢	yi che tan gang	1
+易溶合金	yi rong he jin	1
+异丙醇	yi bing chun	1
+异丁烯	yi ding xi	1
+异戊二烯	yi wu er xi	1
+异形线	yi xing xian	1
+银箔	yin bo	1
+银铜焊料	yin tong han liao	1
+银纹	yin wen	1
+引发剂	yin fa ji	1
+印刷板软钎焊用钎剂	yin shua ban ruan qian han yong qian ji	1
+印刷电器板油压冲孔脱料系统	yin shua dian qi ban you ya chong kong tuo liao xi tong	1
+印刷后及蚀刻后板	yin shua hou ji shi ke hou ban	1
+印刷及预烤	yin shua ji yu kao	1
+应力腐蚀	ying li fu shi	1
+应力松弛	ying li song chi	1
+应力退火温度	ying li tui huo wen du	1
+应力诱导相变增韧	ying li you dao xiang bian zeng ren	1
+应用材料	ying yong cai liao	1
+荧光材料	ying guang cai liao	1
+荧光粉	ying guang fen	1
+影像转移	ying xiang zhuan yi	1
+硬磁	ying ci	1
+硬磁材料	ying ci cai liao	1
+硬度	ying du	1
+硬焊	ying han	1
+硬化	ying hua	1
+硬化剂	ying hua ji	1
+硬化水泥浆体	ying hua shui ni jiang ti	1
+硬化性能	ying hua xing neng	1
+硬性及软性标牌胶	ying xing ji ruan xing biao pai jiao	1
+永磁铁氧体料粉	yong ci tie yang ti liao fen	1
+用氧化锌低压化的硫氧化钇	yong yang hua xin di ya hua de liu yang hua yi	1
+油壶	you hu	1
+油冷却器	you leng que qi	1
+有机硅灌封料	you ji gui guan feng liao	1
+有机硅浸渍料	you ji gui jin zi liao	1
+有机活性助焊剂	you ji huo xing zhu han ji	1
+诱导分解	you dao fen jie	1
+幼珠光体	you zhu guang ti	1
+预干烤	yu gan kao	1
+预浸盐	yu jin yan	1
+预涂助焊剂	yu tu zhu han ji	1
+元素有机聚合物	yuan su you ji ju he wu	1
+原位分析	yuan wei fen xi	1
+原子	yuan zi	1
+原子的组织图	yuan zi de zu zhi tu	1
+原子序数	yuan zi xu shu	1
+圆面发条	yuan mian fa tiao	1
+远紫外负性光刻胶	yuan zi wai fu xing guang ke jiao	1
+远紫外正性光刻胶	yuan zi wai zheng xing guang ke jiao	1
+匀晶相图	yun jing xiang tu	1
+杂链	za lian	1
+杂链聚合物	za lian ju he wu	1
+载流子	zai liu zi	1
+再结晶	zai jie jing	1
+再结晶温度	zai jie jing wen du	1
+造钉机	zao ding ji	1
+造链机	zao lian ji	1
+造线机	zao xian ji	1
+择优取向	ze you qu xiang	1
+增强材料	zeng qiang cai liao	1
+增容剂	zeng rong ji	1
+窄线宽石榴石材料系列	zhai xian kuan shi liu shi cai liao xi lie	1
+粘结永磁铁氧体材料	nian jie yong ci tie yang ti cai liao	1
+粘结钕铁硼磁体	nian jie nv tie peng ci ti	1
+粘均	zhan jun	1
+粘流态	nian liu tai	1
+粘流态	zhan liu tai	1
+粘流温度	nian liu wen du	1
+粘流温度	zhan liu wen du	1
+粘着磨损	nian zhe mo sun	1
+粘着磨损	zhan zhe mo sun	1
+辗压机	zhan ya ji	1
+占有体积	zhan you ti ji	1
+照明用荧光粉	zhao ming yong ying guang fen	1
+折射	zhe she	1
+锗单晶	zhe dan jing	1
+锗酸铋单晶	zhe suan bi dan jing	1
+针孔	zhen kong	1
+蒸散型吸气剂	zheng san xing xi qi ji	1
+正磁化率	zheng ci hua lv	1
+正矾磷酸钇	zheng fan lin suan yi	1
+正火	zheng huo	1
+正胶显影液	zheng jiao xian ying ye	1
+正性光刻胶	zheng xing guang ke jiao	1
+支持系统	zhi chi xi tong	1
+支化	zhi hua	1
+支化型	zhi hua xing	1
+支链	zhi lian	1
+脂肪族	zhi fang zu	1
+织麦激光切割机	zhi mai ji guang qie ge ji	1
+织态	zhi tai	1
+织纹显露	zhi wen xian lu	1
+直接键合硅片	zhi jie jian he gui pian	1
+直径公差	zhi jing gong cha	1
+直径公差	zhi jing gong chai	1
+置换型固熔体	zhi huan xing gu rong ti	1
+滞后回线	zhi hou hui xian	1
+治具	zhi ju	1
+治具测试	zhi ju ce shi	1
+中碳钢	zhong tan gang	1
+中途退火	zhong tu tui huo	1
+中珠光体	zhong zhu guang ti	1
+中子嬗变掺杂硅单晶	zhong zi shan bian chan za gui dan jing	1
+种类	zhong lei	1
+重氮丝印感光胶	zhong dan si yin gan guang jiao	1
+重工	zhong gong	1
+重硅酸钡	zhong gui suan bei	1
+重硅酸钡	chong gui suan bei	1
+重均	zhong jun	1
+重均	chong jun	1
+重力铸造机	zhong li zhu zao ji	1
+重型车床	zhong xing che chuang	1
+周期表	zhou qi biao	1
+周期性	zhou qi xing	1
+轴承	zhou cheng	1
+轴承合金	zhou cheng he jin	1
+轴承加工机	zhou cheng jia gong ji	1
+轴承配件	zhou cheng pei jian	1
+肘杆式压力机	zhou gan shi ya li ji	1
+皱纹纸胶带	zhou wen zhi jiao dai	1
+皱褶	zhou zhe	1
+珠光体	zhu guang ti	1
+逐步聚合反应	zhu bu ju he fan ying	1
+主图	zhu tu	1
+主轴	zhu zhou	1
+主族	zhu zu	1
+柱晶	zhu jing	1
+助焊剂	zhu han ji	1
+铸钢	zhu gang	1
+铸灰口铁	zhu hui kou tie	1
+铸铝	zhu lv	1
+铸塑	zhu su	1
+铸铜	zhu tong	1
+铸造	zhu zao	1
+铸造设备	zhu zao she bei	1
+注射成型	zhu she cheng xing	1
+注塑	zhu su	1
+注油机	zhu you ji	1
+注油枪	zhu you qiang	1
+转变元素	zhuan bian yuan su	1
+转化率	zhuan hua lv	1
+转台	zhuan tai	1
+锥桶式流变成形	zhui tong shi liu bian cheng xing	1
+准解理断裂	zhun jie li duan lie	1
+准晶	zhun jing	1
+紫翠宝石可调谐激光晶体	zi cui bao shi ke tiao xie ji guang jing ti	1
+紫铜	zi tong	1
+紫外碱溶抗蚀印料	zi wai jian rong kang shi yin liao	1
+紫外正性光刻胶	zi wai zheng xing guang ke jiao	1
+自动车床	zi dong che chuang	1
+自动压力机	zi dong ya li ji	1
+自发磁化	zi fa ci hua	1
+自发上磁	zi fa shang ci	1
+自干型耐腐蚀印料	zi gan xing nai fu shi yin liao	1
+自蔓延高温合成技术	zi man yan gao wen he cheng ji shu	1
+自然时效	zi ran shi xiao	1
+自由度	zi you du	1
+自由基	zi you ji	1
+自由体积	zi you ti ji	1
+棕刚玉粉	zong gang yu fen	1
+阻剂	zu ji	1
+阻聚	zu ju	1
+阻聚剂	zu ju ji	1
+阻燃包封料	zu ran bao feng liao	1
+阻燃环氧灌封料	zu ran huan yang guan feng liao	1
+阻燃密封胶	zu ran mi feng jiao	1
+阻燃型彩色聚酯压敏胶带	zu ran xing cai se ju zhi ya min jiao dai	1
+阻燃型室温硫化硅橡胶	zu ran xing shi wen liu hua gui xiang jiao	1
+组织	zu zhi	1
+钻床	zuan chuang	1
+钻床工作台	zuan chuang gong zuo tai	1
+钻尖分开	zuan jian fen kai	1
+钻尖切削面	zuan jian qie xiao mian	1
+钻尖重叠	zuan jian chong die	1
+钻尖重磨机	zuan jian zhong mo ji	1
+钻尖重磨机	zuan jian chong mo ji	1
+钻模	zuan mu	1
+钻石刀具	zuan shi dao ju	1
+钻头	zuan tou	1
+钻头刃带	zuan tou ren dai	1
+钻轴	zuan zhou	1
+最大能量积	zui da neng liang ji	1
+最可几	zui ke ji	1
+茏蔽	long bi	1
+茏蔽效应	long bi xiao ying	1
+吡咯	bi luo	1
+钐钴永磁粉	shan gu yong ci fen	1
+钐钴永磁体	shan gu yong ci ti	1
+钕铁硼永磁	nv tie peng yong ci	1
+钕铁硼永磁粉	nv tie peng yong ci fen	1
+钕铁硼永磁体	nv tie peng yong ci ti	1
+钛宝石激光晶体	tai bao shi ji guang jing ti	1
+钛箔	tai bo	1
+钛铝化合物为基的钛合金	tai lv hua he wu wei ji de tai he jin	1
+钛酸钡热敏电阻陶瓷	tai suan bei re min dian zu tao ci	1
+钛酸钡铁电陶瓷	tai suan bei tie dian tao ci	1
+钛酸铅压电陶瓷	tai suan qian ya dian tao ci	1
+钼板	mu ban	1
+钼箔	mu bo	1
+钼封接玻璃粉	mu feng jie bo li fen	1
+钼丝	mu si	1
+钼酸铅单晶	mu suan qian dan jing	1
+钼钨合金丝	mu wu he jin si	1
+钽酸锂单晶	tan suan li dan jing	1
+铌酸钾晶体	ni suan jia jing ti	1
+铌酸锂单晶	ni suan li dan jing	1
+铌酸锂开关	ni suan li kai guan	1
+铍青铜箔材	pi qing tong bo cai	1
+铍酸镧激光晶体	pi suan lan ji guang jing ti	1
+锂铁氧体材料系列	li tie yang ti cai liao xi lie	1
+镗床	tang chuang	1
+镧锆钛酸铅陶瓷	lan gao tai suan qian tao ci	1
+黏弹	nian tan	1
+黏弹	nian dan	1
+黏弹性	nian tan xing	1
+黏度	nian du	1
+黏均	nian jun	1
+黏性	nian xing	1
