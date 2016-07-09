@@ -8,9 +8,29 @@ Rime是[佛振@git](https://gist.github.com/lotem)开发的适用于各个操作
 
 # 安装扩充词库
 * 从[这里](https://github.com/rime-aca/dictionaries)可以下载rime输入法的扩充词库，放入配置文件夹里。
-* 我用朙月拼音方案，所以`luna_pinyin.custom.yaml`名字不用改变。
-* 重新部署。
-* 验证：输入「一介书生」、「一丈红」、「疑是地上霜」。
+  - 我用朙月拼音方案，所以`luna_pinyin.custom.yaml`名字不用改变。
+  - 重新部署。
+  - 验证：输入「一介书生」、「一丈红」、「疑是地上霜」。
+* 配置符号
+  - 在`luna_pinyin.custom.yaml' 加入：
+```yaml
+  punctuator:
+    import_preset: symbols
+```
+* 安装自己的词库
+
+用QQ拼音词库生成冶金和材料专业两个词库`metall.dict.yaml`和`mater.dict.yaml`，加入`luna_pinyin.extended.dict.yaml`文件中，变成这样：
+```yaml
+import_tables:
+  - luna_pinyin
+  - luna_pinyin.hanyu
+  - luna_pinyin.poetry
+  - luna_pinyin.cn_en
+  - metall
+  - mater
+```
+
+
 
 # 同步
 
