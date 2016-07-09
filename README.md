@@ -16,7 +16,12 @@ Rime是[佛振@git](https://gist.github.com/lotem)开发的适用于各个操作
 ```yaml
   punctuator:
     import_preset: symbols
+  recognizer:
+    patterns:
+      punct: "^/[0-9]*[a-z]*$"
 ```
+  因为luna_pinyin.yaml中没有`punct: "^/[0-9]*[a-z]*$"`这一条，导致`/fh`呼不出符号输入选项。
+  
 * 安装自己的词库
 
 用QQ拼音词库生成冶金和材料专业两个词库`metall.dict.yaml`和`mater.dict.yaml`，加入`luna_pinyin.extended.dict.yaml`文件中，变成这样：
@@ -44,7 +49,7 @@ sync_dir: '/home/xxx/Nutstore/RimeSync'
 第一行改成自己的id名，第二行将同步文件夹设立在Nutstore网盘同步文件夹里。
 
 # 下一步
-- [ ] 配置符号输入
+- [x] 配置符号输入
 - [ ] 配置语句流
 - [ ] 同步windows 7 下的个人词典
 
