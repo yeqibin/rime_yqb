@@ -52,4 +52,5 @@ sync_dir: '/home/xxx/Nutstore/RimeSync'
 - [x] 配置符号输入
 - [ ] 配置语句流
 - [ ] 同步windows 7 下的个人词典
+- [ ] 配置LaTeX专用个人词库，如`latex=LaTeX`等
 
