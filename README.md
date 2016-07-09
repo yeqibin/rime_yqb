@@ -6,7 +6,7 @@ Rime是[佛振@git](https://gist.github.com/lotem)开发的一款非常棒的输
 
 # 安装扩充词库
 * 从[这里](https://github.com/rime-aca/dictionaries)可以下载rime输入法的扩充词库，放入配置文件夹里。
-* 将luna_pinyin.custom.yaml改成我用的朙月拼音·简化字方案名字 luna_pinyin_simp.custom.yaml。
+* 我用朙月拼音方案，所以`luna_pinyin.custom.yaml`名字不用改变。
 * 重新部署。
 * 验证：输入「一介书生」、「一丈红」、「疑是地上霜」。
 
@@ -20,3 +20,8 @@ sync_dir: '/home/xxx/Nutstore/RimeSync'
 ```
 
 第一行改成自己的id名，第二行将同步文件夹设立在Nutstore网盘同步文件夹里。
+
+- [ ] 配置符号输入
+- [ ] 配置语句流
+- [ ] 同步windows 7 下的个人词典
+
