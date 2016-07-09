@@ -21,6 +21,7 @@ sync_dir: '/home/xxx/Nutstore/RimeSync'
 
 第一行改成自己的id名，第二行将同步文件夹设立在Nutstore网盘同步文件夹里。
 
+# 下一步
 - [ ] 配置符号输入
 - [ ] 配置语句流
 - [ ] 同步windows 7 下的个人词典
