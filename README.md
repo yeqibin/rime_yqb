@@ -24,7 +24,7 @@ Rime是[佛振@git](https://gist.github.com/lotem)开发的适用于各个操作
     patterns:
       punct: "^/[0-9]*[a-z]*$"
 ```
-  因为luna_pinyin.yaml中没有`punct: "^/[0-9]*[a-z]*$"`这一条，导致`/fh`呼不出符号输入选项。
+  因为luna_pinyin.yaml中没有`punct: "^/[0-9]*[a-z]*$"`这一条，导致`/fh`呼不出符号输入选项，所以在这里加入。
   
 * 安装自己的词库
 
