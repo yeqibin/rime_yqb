@@ -1,7 +1,7 @@
 # Rime 输入法说明
 Rime是[佛振@git](https://gist.github.com/lotem)开发的适用于各个操作系统的一款输入法，[官网在这里](http://rime.im/)。Rime在Linux上叫中州韵，有ibus-rime和fcitx-rime两种版本，而在Windows上是小狼毫（Weasel），在Mac OS X下则变成了鼠须管（Squirrel），Android上叫同文输入法。
 
-我主要用Ubuntu系统，同时用一个Windows 7虚拟机，喜欢Rime输入法的灵活配置和输入中文的流畅感。
+我主要用Ubuntu系统，同时用一个Windows 7虚拟机，Rime输入法可以跨平台使用同一词库，灵活配置且流畅输入。
 
 # Rime输入法安装
 在Ubuntu 16.04中可以直接用`apt-get install fcitx-rime` 安装，配置文件在`~/.config/fcitx/rime` 文件夹中。
