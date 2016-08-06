@@ -16,6 +16,10 @@ Rime是[佛振@git](https://gist.github.com/lotem)开发的适用于各个操作
 ```yaml
   punctuator:
     import_preset: symbols
+      '/dyy': [ i, ɪ, e, ɛ, æ, ɑ, ɔ, o, u, ᴜ, ʌ, ə, ɚ, ɝ ] #单元音
+      '/syy': [ aɪ, ɔɪ, ɛr, ɑr, ɔr, ɪr, ɜr, ᴜr, aᴜ, ju, iə, ɪə ] #双元音
+      '/fy': [ θ, ð, ʃ, ʒ, tʃ, dʒ, ŋ, ˋ, ˊ ]   #辅音
+
   recognizer:
     patterns:
       punct: "^/[0-9]*[a-z]*$"
@@ -49,8 +53,8 @@ sync_dir: '/home/xxx/Nutstore/RimeSync'
 第一行改成自己的id名，第二行将同步文件夹设立在Nutstore网盘同步文件夹里。
 
 # 下一步
-- [x] 配置符号输入
-- [ ] 配置语句流
-- [ ] 同步windows 7 下的个人词典
-- [ ] 配置LaTeX专用个人词库，如`latex=LaTeX`等
+- [x] 配置符号输入，如音标
+- [x] 配置语句流
+- [x] 同步windows 7 下的个人词典
+- [x] 配置个人快捷词库
 
